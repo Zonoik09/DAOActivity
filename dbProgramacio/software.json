@@ -1,0 +1,74 @@
+[
+  {
+    "llenguatges": [0],
+    "id": 0,
+    "nom": "Spring Framework",
+    "any": 2002
+  },
+  {
+    "llenguatges": [1],
+    "id": 1,
+    "nom": "TensorFlow",
+    "any": 2015
+  },
+  {
+    "llenguatges": [3],
+    "id": 2,
+    "nom": "Angular",
+    "any": 2016
+  },
+  {
+    "llenguatges": [
+      2,
+      3
+    ],
+    "id": 3,
+    "nom": "Mozilla Firefox",
+    "any": 2002
+  },
+  {
+    "llenguatges": [1],
+    "id": 4,
+    "nom": "Dropbox",
+    "any": 2008
+  },
+  {
+    "llenguatges": [
+      2,
+      3
+    ],
+    "id": 5,
+    "nom": "Google Chrome",
+    "any": 2008
+  },
+  {
+    "llenguatges": [
+      0,
+      2
+    ],
+    "id": 6,
+    "nom": "Microsoft Word",
+    "any": 1983
+  },
+  {
+    "llenguatges": [
+      0,
+      2
+    ],
+    "id": 7,
+    "nom": "MySQL",
+    "any": 1995
+  },
+  {
+    "llenguatges": [4],
+    "id": 8,
+    "nom": "Docker",
+    "any": 2013
+  },
+  {
+    "llenguatges": [3],
+    "id": 9,
+    "nom": "React",
+    "any": 2013
+  }
+]
